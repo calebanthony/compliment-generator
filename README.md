@@ -7,4 +7,4 @@ https://calebanth.github.io/compliment-generator/
 - React
 - Webpack
 - Babel
-- Setting up an HTTP server via Node
+- Setting up an HTTP server
